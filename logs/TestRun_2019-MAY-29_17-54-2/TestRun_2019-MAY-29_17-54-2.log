@@ -1,0 +1,18 @@
+2019-05-29 17:54:03,063 INFO Bindings [main] Bindings test started
+2019-05-29 17:54:05,699 INFO Bindings [main] Navigate to http://dev-shire-test.pantheonsite.io/user/login
+2019-05-29 17:54:07,607 INFO Menu [main] Check that page title is 'Log in' in '10' seconds
+2019-05-29 17:54:07,634 INFO WebTextInput [main] Populate 'Username Input' with value 'sf_tanya'
+2019-05-29 17:54:07,674 INFO WebTextInput [main] Verify text of 'Username Input' element
+2019-05-29 17:54:07,707 INFO WebTextInput [main] 1st: 'sf_tanya'
+2019-05-29 17:54:07,707 INFO WebTextInput [main] 2nd: 'sf_tanya'
+2019-05-29 17:54:07,732 INFO WebTextInput [main] Populate 'Password Input' with value '1991SpaceFlash'
+2019-05-29 17:54:07,762 INFO WebTextInput [main] Verify text of 'Password Input' element
+2019-05-29 17:54:07,788 INFO WebTextInput [main] 1st: '1991SpaceFlash'
+2019-05-29 17:54:07,788 INFO WebTextInput [main] 2nd: '1991SpaceFlash'
+2019-05-29 17:54:07,810 INFO WebButton [main] Click on element 'Login Btn'
+2019-05-29 17:54:10,690 INFO Menu [main] Check that page title is 'sf_tanya' in '10' seconds
+2019-05-29 17:54:10,750 INFO WebLink [main] Click on element 'Content Lnk'
+2019-05-29 17:54:12,793 INFO Menu [main] Check that page title is 'Content' in '20' seconds
+2019-05-29 17:54:12,806 INFO Bindings [main] Test has ended.
+
+2019-05-29 17:54:13,525 INFO Bindings [main] Bindings test started

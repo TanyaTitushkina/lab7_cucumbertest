@@ -1,0 +1,7 @@
+2019-05-28 19:59:33,374 INFO Bindings [main] Bindings test started
+2019-05-28 19:59:36,712 INFO Bindings [main] Navigate to http://dev-shire-test.pantheonsite.io/user/login
+2019-05-28 19:59:40,687 INFO Menu [main] Check that page title is 'Log in' in '10' seconds
+2019-05-28 19:59:56,030 INFO Bindings [main] Test ended 
+
+2019-05-28 19:59:56,853 INFO Bindings [main] Bindings test started
+2019-05-28 19:59:59,107 INFO Bindings [main] Navigate to http://dev-shire-test.pantheonsite.io/user/login

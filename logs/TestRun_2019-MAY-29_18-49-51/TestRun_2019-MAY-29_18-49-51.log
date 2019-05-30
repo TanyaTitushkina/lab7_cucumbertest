@@ -1,0 +1,510 @@
+2019-05-29 18:49:52,229 INFO Bindings [main] Bindings test started
+2019-05-29 18:49:54,880 INFO Bindings [main] Navigate to http://dev-shire-test.pantheonsite.io/user/login
+2019-05-29 18:49:56,746 INFO Menu [main] Check that page title is 'Log in' in '10' seconds
+2019-05-29 18:49:56,773 INFO WebTextInput [main] Populate 'Username Input' with value 'sf_tanya'
+2019-05-29 18:49:56,814 INFO WebTextInput [main] Verify text of 'Username Input' element
+2019-05-29 18:49:56,845 INFO WebTextInput [main] 1st: 'sf_tanya'
+2019-05-29 18:49:56,845 INFO WebTextInput [main] 2nd: 'sf_tanya'
+2019-05-29 18:49:56,872 INFO WebTextInput [main] Populate 'Password Input' with value '1991SpaceFlash'
+2019-05-29 18:49:56,906 INFO WebTextInput [main] Verify text of 'Password Input' element
+2019-05-29 18:49:56,931 INFO WebTextInput [main] 1st: '1991SpaceFlash'
+2019-05-29 18:49:56,931 INFO WebTextInput [main] 2nd: '1991SpaceFlash'
+2019-05-29 18:49:56,951 INFO WebButton [main] Click on element 'Login Btn'
+2019-05-29 18:50:00,027 INFO Menu [main] Check that page title is 'sf_tanya' in '10' seconds
+2019-05-29 18:50:00,041 INFO WebLink [main] Click on element 'Home Lnk'
+2019-05-29 18:50:03,932 INFO WebTextInput [main] Populate 'Subject Input' with value 'test Cucu 1'
+2019-05-29 18:50:05,146 INFO WebTextInput [main] Verify text of 'Subject Input' element
+2019-05-29 18:50:05,179 INFO WebTextInput [main] 1st: 'test Cucu 1'
+2019-05-29 18:50:05,179 INFO WebTextInput [main] 2nd: 'test Cucu 1'
+2019-05-29 18:50:05,206 INFO Helpers [main] Sleep for 1000 ms
+2019-05-29 18:50:06,267 INFO WebButton [main] Click on element 'Save Btn'
+2019-05-29 18:50:09,358 INFO Helpers [main] Check 2 string if equals:
+1st: 'test Cucu 1'
+2nd: 'test Cucu 1'
+2019-05-29 18:50:09,370 INFO Helpers [main] Check 2 string if equals:
+1st: 'hello from Cucu 1'
+2nd: 'hello from Cucu 1'
+2019-05-29 18:50:09,370 INFO Bindings [main] Test has ended.
+
+2019-05-29 18:50:10,024 INFO Bindings [main] Bindings test started
+2019-05-29 18:50:12,243 INFO Bindings [main] Navigate to http://dev-shire-test.pantheonsite.io/user/login
+2019-05-29 18:50:13,854 INFO Menu [main] Check that page title is 'Log in' in '10' seconds
+2019-05-29 18:50:13,886 INFO WebTextInput [main] Populate 'Username Input' with value 'sf_tanya'
+2019-05-29 18:50:13,964 INFO WebTextInput [main] Verify text of 'Username Input' element
+2019-05-29 18:50:14,011 INFO WebTextInput [main] 1st: 'sf_tanya'
+2019-05-29 18:50:14,011 INFO WebTextInput [main] 2nd: 'sf_tanya'
+2019-05-29 18:50:14,057 INFO WebTextInput [main] Populate 'Password Input' with value '1991SpaceFlash'
+2019-05-29 18:50:14,120 INFO WebTextInput [main] Verify text of 'Password Input' element
+2019-05-29 18:50:14,167 INFO WebTextInput [main] 1st: '1991SpaceFlash'
+2019-05-29 18:50:14,167 INFO WebTextInput [main] 2nd: '1991SpaceFlash'
+2019-05-29 18:50:14,229 INFO WebButton [main] Click on element 'Login Btn'
+2019-05-29 18:50:17,873 INFO Menu [main] Check that page title is 'sf_tanya' in '10' seconds
+2019-05-29 18:50:17,918 INFO WebLink [main] Click on element 'Home Lnk'
+2019-05-29 18:50:22,736 INFO WebTextInput [main] Populate 'Subject Input' with value 'test Cucu 2'
+2019-05-29 18:50:24,371 INFO WebTextInput [main] Verify text of 'Subject Input' element
+2019-05-29 18:50:24,404 INFO WebTextInput [main] 1st: 'test Cucu 2'
+2019-05-29 18:50:24,404 INFO WebTextInput [main] 2nd: 'test Cucu 2'
+2019-05-29 18:50:24,430 INFO Helpers [main] Sleep for 1000 ms
+2019-05-29 18:50:25,485 INFO WebButton [main] Click on element 'Save Btn'
+2019-05-29 18:50:28,366 INFO Helpers [main] Check 2 string if equals:
+1st: 'test Cucu 2'
+2nd: 'test Cucu 2'
+2019-05-29 18:50:28,379 INFO Helpers [main] Check 2 string if equals:
+1st: 'hello from Cucu 2'
+2nd: 'hello from Cucu 2'
+2019-05-29 18:50:28,379 INFO Bindings [main] Test has ended.
+
+2019-05-29 18:50:29,024 INFO Bindings [main] Bindings test started
+2019-05-29 18:50:31,236 INFO Bindings [main] Navigate to http://dev-shire-test.pantheonsite.io/user/login
+2019-05-29 18:50:32,920 INFO Menu [main] Check that page title is 'Log in' in '10' seconds
+2019-05-29 18:50:32,941 INFO WebTextInput [main] Populate 'Username Input' with value 'sf_tanya'
+2019-05-29 18:50:32,981 INFO WebTextInput [main] Verify text of 'Username Input' element
+2019-05-29 18:50:33,006 INFO WebTextInput [main] 1st: 'sf_tanya'
+2019-05-29 18:50:33,006 INFO WebTextInput [main] 2nd: 'sf_tanya'
+2019-05-29 18:50:33,026 INFO WebTextInput [main] Populate 'Password Input' with value '1991SpaceFlash'
+2019-05-29 18:50:33,060 INFO WebTextInput [main] Verify text of 'Password Input' element
+2019-05-29 18:50:33,082 INFO WebTextInput [main] 1st: '1991SpaceFlash'
+2019-05-29 18:50:33,082 INFO WebTextInput [main] 2nd: '1991SpaceFlash'
+2019-05-29 18:50:33,104 INFO WebButton [main] Click on element 'Login Btn'
+2019-05-29 18:50:36,528 INFO Menu [main] Check that page title is 'sf_tanya' in '10' seconds
+2019-05-29 18:50:36,541 INFO WebLink [main] Click on element 'Home Lnk'
+2019-05-29 18:50:42,730 INFO WebTextInput [main] Populate 'Subject Input' with value 'test Cucu 3'
+2019-05-29 18:50:44,217 INFO WebTextInput [main] Verify text of 'Subject Input' element
+2019-05-29 18:50:44,260 INFO WebTextInput [main] 1st: 'test Cucu 3'
+2019-05-29 18:50:44,260 INFO WebTextInput [main] 2nd: 'test Cucu 3'
+2019-05-29 18:50:44,286 INFO Helpers [main] Sleep for 1000 ms
+2019-05-29 18:50:45,343 INFO WebButton [main] Click on element 'Save Btn'
+2019-05-29 18:50:48,739 INFO Helpers [main] Check 2 string if equals:
+1st: 'test Cucu 3'
+2nd: 'test Cucu 3'
+2019-05-29 18:50:48,749 INFO Helpers [main] Check 2 string if equals:
+1st: 'hello from Cucu 3'
+2nd: 'hello from Cucu 3'
+2019-05-29 18:50:48,749 INFO Bindings [main] Test has ended.
+
+2019-05-29 18:50:49,428 INFO Bindings [main] Bindings test started
+2019-05-29 18:50:51,647 INFO Bindings [main] Navigate to http://dev-shire-test.pantheonsite.io/user/login
+2019-05-29 18:50:53,388 INFO Menu [main] Check that page title is 'Log in' in '10' seconds
+2019-05-29 18:50:53,411 INFO WebTextInput [main] Populate 'Username Input' with value 'sf_tanya'
+2019-05-29 18:50:53,451 INFO WebTextInput [main] Verify text of 'Username Input' element
+2019-05-29 18:50:53,475 INFO WebTextInput [main] 1st: 'sf_tanya'
+2019-05-29 18:50:53,476 INFO WebTextInput [main] 2nd: 'sf_tanya'
+2019-05-29 18:50:53,499 INFO WebTextInput [main] Populate 'Password Input' with value '1991SpaceFlash'
+2019-05-29 18:50:53,532 INFO WebTextInput [main] Verify text of 'Password Input' element
+2019-05-29 18:50:53,552 INFO WebTextInput [main] 1st: '1991SpaceFlash'
+2019-05-29 18:50:53,552 INFO WebTextInput [main] 2nd: '1991SpaceFlash'
+2019-05-29 18:50:53,570 INFO WebButton [main] Click on element 'Login Btn'
+2019-05-29 18:50:56,864 INFO Menu [main] Check that page title is 'sf_tanya' in '10' seconds
+2019-05-29 18:50:56,903 INFO WebLink [main] Click on element 'Content Lnk'
+2019-05-29 18:50:58,921 INFO Menu [main] Check that page title is 'Content' in '20' seconds
+2019-05-29 18:50:58,935 INFO WebButton [main] Click on element 'Add Content Btn'
+2019-05-29 18:51:00,486 INFO Menu [main] Check that page title is 'Add content' in '10' seconds
+2019-05-29 18:51:00,506 INFO WebLink [main] Click on element 'Article Lnk'
+2019-05-29 18:51:03,403 INFO Menu [main] Check that page title is 'Create Article' in '10' seconds
+2019-05-29 18:51:03,472 INFO Menu [main] Check that page title is 'Create Article' in '10' seconds
+2019-05-29 18:51:03,501 INFO WebTextInput [main] Populate 'Title Input' with value 'Article1'
+2019-05-29 18:51:03,544 INFO WebTextInput [main] Verify text of 'Title Input' element
+2019-05-29 18:51:03,567 INFO WebTextInput [main] 1st: 'Article1'
+2019-05-29 18:51:03,568 INFO WebTextInput [main] 2nd: 'Article1'
+2019-05-29 18:51:03,588 INFO Helpers [main] Sleep for 500 ms
+2019-05-29 18:51:04,152 INFO WebButton [main] Click on element 'Save Btn'
+2019-05-29 18:51:08,432 INFO Menu [main] Check that page title is 'Article1' in '10' seconds
+2019-05-29 18:51:08,449 INFO WebText [main] Verify text of 'Content Txt' element
+2019-05-29 18:51:08,460 INFO WebText [main] 1st: 'Article1 is created using Cucumber'
+2019-05-29 18:51:08,460 INFO WebText [main] 2nd: 'Article1 is created using Cucumber'
+2019-05-29 18:51:08,476 INFO WebLink [main] Click on element 'Content Lnk'
+2019-05-29 18:51:09,941 INFO Helpers [main] Sleep for 2000 ms
+2019-05-29 18:51:11,951 INFO Bindings [main] menu.pageTitle.getText() = Content
+2019-05-29 18:51:11,959 INFO Content [main] Check Type for 'Article1'
+2019-05-29 18:51:11,968 INFO Helpers [main] Check 2 string if equals:
+1st: 'Article'
+2nd: 'Article'
+2019-05-29 18:51:11,969 INFO Content [main] Check Status for 'Article1'
+2019-05-29 18:51:11,980 INFO Helpers [main] Check 2 string if equals:
+1st: 'Published'
+2nd: 'Published'
+2019-05-29 18:51:11,981 INFO Bindings [main] Test has ended.
+
+2019-05-29 18:51:12,628 INFO Bindings [main] Bindings test started
+2019-05-29 18:51:14,823 INFO Bindings [main] Navigate to http://dev-shire-test.pantheonsite.io/user/login
+2019-05-29 18:51:16,411 INFO Menu [main] Check that page title is 'Log in' in '10' seconds
+2019-05-29 18:51:16,430 INFO WebTextInput [main] Populate 'Username Input' with value 'sf_tanya'
+2019-05-29 18:51:16,465 INFO WebTextInput [main] Verify text of 'Username Input' element
+2019-05-29 18:51:16,491 INFO WebTextInput [main] 1st: 'sf_tanya'
+2019-05-29 18:51:16,491 INFO WebTextInput [main] 2nd: 'sf_tanya'
+2019-05-29 18:51:16,510 INFO WebTextInput [main] Populate 'Password Input' with value '1991SpaceFlash'
+2019-05-29 18:51:16,544 INFO WebTextInput [main] Verify text of 'Password Input' element
+2019-05-29 18:51:16,564 INFO WebTextInput [main] 1st: '1991SpaceFlash'
+2019-05-29 18:51:16,564 INFO WebTextInput [main] 2nd: '1991SpaceFlash'
+2019-05-29 18:51:16,582 INFO WebButton [main] Click on element 'Login Btn'
+2019-05-29 18:51:19,657 INFO Menu [main] Check that page title is 'sf_tanya' in '10' seconds
+2019-05-29 18:51:19,694 INFO WebLink [main] Click on element 'Content Lnk'
+2019-05-29 18:51:21,369 INFO Menu [main] Check that page title is 'Content' in '20' seconds
+2019-05-29 18:51:21,380 INFO WebButton [main] Click on element 'Add Content Btn'
+2019-05-29 18:51:23,327 INFO Menu [main] Check that page title is 'Add content' in '10' seconds
+2019-05-29 18:51:23,344 INFO WebLink [main] Click on element 'Article Lnk'
+2019-05-29 18:51:26,197 INFO Menu [main] Check that page title is 'Create Article' in '10' seconds
+2019-05-29 18:51:26,248 INFO Menu [main] Check that page title is 'Create Article' in '10' seconds
+2019-05-29 18:51:26,296 INFO WebTextInput [main] Populate 'Title Input' with value 'Article2'
+2019-05-29 18:51:26,364 INFO WebTextInput [main] Verify text of 'Title Input' element
+2019-05-29 18:51:26,400 INFO WebTextInput [main] 1st: 'Article2'
+2019-05-29 18:51:26,400 INFO WebTextInput [main] 2nd: 'Article2'
+2019-05-29 18:51:26,438 INFO Helpers [main] Sleep for 500 ms
+2019-05-29 18:51:27,007 INFO WebButton [main] Click on element 'Save Btn'
+2019-05-29 18:51:30,914 INFO Menu [main] Check that page title is 'Article2' in '10' seconds
+2019-05-29 18:51:30,932 INFO WebText [main] Verify text of 'Content Txt' element
+2019-05-29 18:51:30,945 INFO WebText [main] 1st: 'Article2 is created using Cucumber'
+2019-05-29 18:51:30,946 INFO WebText [main] 2nd: 'Article2 is created using Cucumber'
+2019-05-29 18:51:30,955 INFO WebLink [main] Click on element 'Content Lnk'
+2019-05-29 18:51:32,686 INFO Helpers [main] Sleep for 2000 ms
+2019-05-29 18:51:34,695 INFO Bindings [main] menu.pageTitle.getText() = Content
+2019-05-29 18:51:34,703 INFO Content [main] Check Type for 'Article2'
+2019-05-29 18:51:34,712 INFO Helpers [main] Check 2 string if equals:
+1st: 'Article'
+2nd: 'Article'
+2019-05-29 18:51:34,713 INFO Content [main] Check Status for 'Article2'
+2019-05-29 18:51:34,723 INFO Helpers [main] Check 2 string if equals:
+1st: 'Published'
+2nd: 'Published'
+2019-05-29 18:51:34,723 INFO Bindings [main] Test has ended.
+
+2019-05-29 18:51:35,363 INFO Bindings [main] Bindings test started
+2019-05-29 18:51:37,551 INFO Bindings [main] Navigate to http://dev-shire-test.pantheonsite.io/user/login
+2019-05-29 18:51:39,196 INFO Menu [main] Check that page title is 'Log in' in '10' seconds
+2019-05-29 18:51:39,227 INFO WebTextInput [main] Populate 'Username Input' with value 'sf_tanya'
+2019-05-29 18:51:39,276 INFO WebTextInput [main] Verify text of 'Username Input' element
+2019-05-29 18:51:39,303 INFO WebTextInput [main] 1st: 'sf_tanya'
+2019-05-29 18:51:39,303 INFO WebTextInput [main] 2nd: 'sf_tanya'
+2019-05-29 18:51:39,323 INFO WebTextInput [main] Populate 'Password Input' with value '1991SpaceFlash'
+2019-05-29 18:51:39,359 INFO WebTextInput [main] Verify text of 'Password Input' element
+2019-05-29 18:51:39,379 INFO WebTextInput [main] 1st: '1991SpaceFlash'
+2019-05-29 18:51:39,379 INFO WebTextInput [main] 2nd: '1991SpaceFlash'
+2019-05-29 18:51:39,399 INFO WebButton [main] Click on element 'Login Btn'
+2019-05-29 18:51:42,565 INFO Menu [main] Check that page title is 'sf_tanya' in '10' seconds
+2019-05-29 18:51:42,606 INFO WebLink [main] Click on element 'Content Lnk'
+2019-05-29 18:51:44,563 INFO Menu [main] Check that page title is 'Content' in '20' seconds
+2019-05-29 18:51:44,574 INFO WebButton [main] Click on element 'Add Content Btn'
+2019-05-29 18:51:46,610 INFO Menu [main] Check that page title is 'Add content' in '10' seconds
+2019-05-29 18:51:46,633 INFO WebLink [main] Click on element 'Article Lnk'
+2019-05-29 18:51:49,392 INFO Menu [main] Check that page title is 'Create Article' in '10' seconds
+2019-05-29 18:51:49,465 INFO Menu [main] Check that page title is 'Create Article' in '10' seconds
+2019-05-29 18:51:49,486 INFO WebTextInput [main] Populate 'Title Input' with value 'Article3'
+2019-05-29 18:51:49,539 INFO WebTextInput [main] Verify text of 'Title Input' element
+2019-05-29 18:51:49,575 INFO WebTextInput [main] 1st: 'Article3'
+2019-05-29 18:51:49,575 INFO WebTextInput [main] 2nd: 'Article3'
+2019-05-29 18:51:49,596 INFO Helpers [main] Sleep for 500 ms
+2019-05-29 18:51:50,172 INFO WebButton [main] Click on element 'Save Btn'
+2019-05-29 18:51:53,660 INFO Menu [main] Check that page title is 'Article3' in '10' seconds
+2019-05-29 18:51:53,676 INFO WebText [main] Verify text of 'Content Txt' element
+2019-05-29 18:51:53,686 INFO WebText [main] 1st: 'Article3 is created using Cucumber'
+2019-05-29 18:51:53,686 INFO WebText [main] 2nd: 'Article3 is created using Cucumber'
+2019-05-29 18:51:53,697 INFO WebLink [main] Click on element 'Content Lnk'
+2019-05-29 18:51:55,484 INFO Helpers [main] Sleep for 2000 ms
+2019-05-29 18:51:57,492 INFO Bindings [main] menu.pageTitle.getText() = Content
+2019-05-29 18:51:57,500 INFO Content [main] Check Type for 'Article3'
+2019-05-29 18:51:57,510 INFO Helpers [main] Check 2 string if equals:
+1st: 'Article'
+2nd: 'Article'
+2019-05-29 18:51:57,511 INFO Content [main] Check Status for 'Article3'
+2019-05-29 18:51:57,520 INFO Helpers [main] Check 2 string if equals:
+1st: 'Published'
+2nd: 'Published'
+2019-05-29 18:51:57,520 INFO Bindings [main] Test has ended.
+
+2019-05-29 18:51:58,161 INFO Bindings [main] Bindings test started
+2019-05-29 18:52:00,358 INFO Bindings [main] Navigate to http://dev-shire-test.pantheonsite.io/user/login
+2019-05-29 18:52:02,198 INFO Menu [main] Check that page title is 'Log in' in '10' seconds
+2019-05-29 18:52:02,220 INFO WebTextInput [main] Populate 'Username Input' with value 'sf_tanya'
+2019-05-29 18:52:02,257 INFO WebTextInput [main] Verify text of 'Username Input' element
+2019-05-29 18:52:02,281 INFO WebTextInput [main] 1st: 'sf_tanya'
+2019-05-29 18:52:02,281 INFO WebTextInput [main] 2nd: 'sf_tanya'
+2019-05-29 18:52:02,300 INFO WebTextInput [main] Populate 'Password Input' with value '1991SpaceFlash'
+2019-05-29 18:52:02,331 INFO WebTextInput [main] Verify text of 'Password Input' element
+2019-05-29 18:52:02,351 INFO WebTextInput [main] 1st: '1991SpaceFlash'
+2019-05-29 18:52:02,351 INFO WebTextInput [main] 2nd: '1991SpaceFlash'
+2019-05-29 18:52:02,369 INFO WebButton [main] Click on element 'Login Btn'
+2019-05-29 18:52:05,689 INFO Menu [main] Check that page title is 'sf_tanya' in '10' seconds
+2019-05-29 18:52:05,729 INFO WebLink [main] Click on element 'Content Lnk'
+2019-05-29 18:52:07,227 INFO Menu [main] Check that page title is 'Content' in '20' seconds
+2019-05-29 18:52:07,240 INFO WebButton [main] Click on element 'Add Content Btn'
+2019-05-29 18:52:08,895 INFO Menu [main] Check that page title is 'Add content' in '10' seconds
+2019-05-29 18:52:08,915 INFO WebLink [main] Click on element 'Basic Page Lnk'
+2019-05-29 18:52:11,720 INFO Menu [main] Check that page title is 'Create Basic page' in '10' seconds
+2019-05-29 18:52:11,798 INFO WebTextInput [main] Populate 'Title Input' with value 'FrodoCucu'
+2019-05-29 18:52:11,845 INFO WebTextInput [main] Verify text of 'Title Input' element
+2019-05-29 18:52:11,869 INFO WebTextInput [main] 1st: 'FrodoCucu'
+2019-05-29 18:52:11,869 INFO WebTextInput [main] 2nd: 'FrodoCucu'
+2019-05-29 18:52:11,892 INFO Helpers [main] Sleep for 500 ms
+2019-05-29 18:52:12,760 INFO WebCheckBox [main] Select Provide Menu Link
+2019-05-29 18:52:13,006 INFO WebButton [main] Click on element 'Save Btn'
+2019-05-29 18:52:15,908 INFO Menu [main] Check that page title is 'FrodoCucu' in '10' seconds
+2019-05-29 18:52:15,921 INFO WebText [main] Verify text of 'Content Txt' element
+2019-05-29 18:52:15,930 INFO WebText [main] 1st: 'Frodo page is created using Cucumber'
+2019-05-29 18:52:15,930 INFO WebText [main] 2nd: 'Frodo page is created using Cucumber'
+2019-05-29 18:52:15,941 INFO WebLink [main] Click on element 'Content Lnk'
+2019-05-29 18:52:16,655 INFO Helpers [main] Sleep for 2000 ms
+2019-05-29 18:52:18,664 INFO Bindings [main] menu.pageTitle.getText() = FrodoCucu
+2019-05-29 18:52:18,675 INFO WebLink [main] Click on element 'Content Lnk'
+2019-05-29 18:52:20,382 INFO Helpers [main] Sleep for 2000 ms
+2019-05-29 18:52:22,395 INFO Bindings [main] menu.pageTitle.getText() = Content
+2019-05-29 18:52:22,403 INFO Content [main] Check Type for 'FrodoCucu'
+2019-05-29 18:52:22,413 INFO Helpers [main] Check 2 string if equals:
+1st: 'Basic page'
+2nd: 'Basic page'
+2019-05-29 18:52:22,414 INFO Content [main] Check Status for 'FrodoCucu'
+2019-05-29 18:52:22,423 INFO Helpers [main] Check 2 string if equals:
+1st: 'Published'
+2nd: 'Published'
+2019-05-29 18:52:22,423 INFO Bindings [main] Test has ended.
+
+2019-05-29 18:52:23,065 INFO Bindings [main] Bindings test started
+2019-05-29 18:52:25,265 INFO Bindings [main] Navigate to http://dev-shire-test.pantheonsite.io/user/login
+2019-05-29 18:52:27,194 INFO Menu [main] Check that page title is 'Log in' in '10' seconds
+2019-05-29 18:52:27,216 INFO WebTextInput [main] Populate 'Username Input' with value 'sf_tanya'
+2019-05-29 18:52:27,254 INFO WebTextInput [main] Verify text of 'Username Input' element
+2019-05-29 18:52:27,278 INFO WebTextInput [main] 1st: 'sf_tanya'
+2019-05-29 18:52:27,278 INFO WebTextInput [main] 2nd: 'sf_tanya'
+2019-05-29 18:52:27,297 INFO WebTextInput [main] Populate 'Password Input' with value '1991SpaceFlash'
+2019-05-29 18:52:27,325 INFO WebTextInput [main] Verify text of 'Password Input' element
+2019-05-29 18:52:27,345 INFO WebTextInput [main] 1st: '1991SpaceFlash'
+2019-05-29 18:52:27,345 INFO WebTextInput [main] 2nd: '1991SpaceFlash'
+2019-05-29 18:52:27,362 INFO WebButton [main] Click on element 'Login Btn'
+2019-05-29 18:52:30,961 INFO Menu [main] Check that page title is 'sf_tanya' in '10' seconds
+2019-05-29 18:52:31,001 INFO WebLink [main] Click on element 'Content Lnk'
+2019-05-29 18:52:32,570 INFO Menu [main] Check that page title is 'Content' in '20' seconds
+2019-05-29 18:52:32,582 INFO WebButton [main] Click on element 'Add Content Btn'
+2019-05-29 18:52:33,974 INFO Menu [main] Check that page title is 'Add content' in '10' seconds
+2019-05-29 18:52:33,989 INFO WebLink [main] Click on element 'Basic Page Lnk'
+2019-05-29 18:52:37,160 INFO Menu [main] Check that page title is 'Create Basic page' in '10' seconds
+2019-05-29 18:52:37,239 INFO WebTextInput [main] Populate 'Title Input' with value 'SamCucu'
+2019-05-29 18:52:37,285 INFO WebTextInput [main] Verify text of 'Title Input' element
+2019-05-29 18:52:37,322 INFO WebTextInput [main] 1st: 'SamCucu'
+2019-05-29 18:52:37,322 INFO WebTextInput [main] 2nd: 'SamCucu'
+2019-05-29 18:52:37,353 INFO Helpers [main] Sleep for 500 ms
+2019-05-29 18:52:38,217 INFO WebCheckBox [main] Select Provide Menu Link
+2019-05-29 18:52:38,454 INFO WebButton [main] Click on element 'Save Btn'
+2019-05-29 18:52:40,756 INFO Menu [main] Check that page title is 'SamCucu' in '10' seconds
+2019-05-29 18:52:40,769 INFO WebText [main] Verify text of 'Content Txt' element
+2019-05-29 18:52:40,781 INFO WebText [main] 1st: 'Sam page is created using Cucumber'
+2019-05-29 18:52:40,781 INFO WebText [main] 2nd: 'Sam page is created using Cucumber'
+2019-05-29 18:52:40,789 INFO WebLink [main] Click on element 'Content Lnk'
+2019-05-29 18:52:41,505 INFO Helpers [main] Sleep for 2000 ms
+2019-05-29 18:52:43,516 INFO Bindings [main] menu.pageTitle.getText() = SamCucu
+2019-05-29 18:52:43,529 INFO WebLink [main] Click on element 'Content Lnk'
+2019-05-29 18:52:45,228 INFO Helpers [main] Sleep for 2000 ms
+2019-05-29 18:52:47,238 INFO Bindings [main] menu.pageTitle.getText() = Content
+2019-05-29 18:52:47,248 INFO Content [main] Check Type for 'SamCucu'
+2019-05-29 18:52:47,258 INFO Helpers [main] Check 2 string if equals:
+1st: 'Basic page'
+2nd: 'Basic page'
+2019-05-29 18:52:47,258 INFO Content [main] Check Status for 'SamCucu'
+2019-05-29 18:52:47,267 INFO Helpers [main] Check 2 string if equals:
+1st: 'Published'
+2nd: 'Published'
+2019-05-29 18:52:47,267 INFO Bindings [main] Test has ended.
+
+2019-05-29 18:52:47,934 INFO Bindings [main] Bindings test started
+2019-05-29 18:52:50,127 INFO Bindings [main] Navigate to http://dev-shire-test.pantheonsite.io/user/login
+2019-05-29 18:52:52,196 INFO Menu [main] Check that page title is 'Log in' in '10' seconds
+2019-05-29 18:52:52,227 INFO WebTextInput [main] Populate 'Username Input' with value 'sf_tanya'
+2019-05-29 18:52:52,278 INFO WebTextInput [main] Verify text of 'Username Input' element
+2019-05-29 18:52:52,305 INFO WebTextInput [main] 1st: 'sf_tanya'
+2019-05-29 18:52:52,305 INFO WebTextInput [main] 2nd: 'sf_tanya'
+2019-05-29 18:52:52,324 INFO WebTextInput [main] Populate 'Password Input' with value '1991SpaceFlash'
+2019-05-29 18:52:52,358 INFO WebTextInput [main] Verify text of 'Password Input' element
+2019-05-29 18:52:52,385 INFO WebTextInput [main] 1st: '1991SpaceFlash'
+2019-05-29 18:52:52,385 INFO WebTextInput [main] 2nd: '1991SpaceFlash'
+2019-05-29 18:52:52,447 INFO WebButton [main] Click on element 'Login Btn'
+2019-05-29 18:52:55,395 INFO Menu [main] Check that page title is 'sf_tanya' in '10' seconds
+2019-05-29 18:52:55,427 INFO WebLink [main] Click on element 'Content Lnk'
+2019-05-29 18:52:57,016 INFO Menu [main] Check that page title is 'Content' in '20' seconds
+2019-05-29 18:52:57,025 INFO WebButton [main] Click on element 'Add Content Btn'
+2019-05-29 18:52:58,518 INFO Menu [main] Check that page title is 'Add content' in '10' seconds
+2019-05-29 18:52:58,535 INFO WebLink [main] Click on element 'Basic Page Lnk'
+2019-05-29 18:53:01,191 INFO Menu [main] Check that page title is 'Create Basic page' in '10' seconds
+2019-05-29 18:53:01,263 INFO WebTextInput [main] Populate 'Title Input' with value 'BilboCucu'
+2019-05-29 18:53:01,311 INFO WebTextInput [main] Verify text of 'Title Input' element
+2019-05-29 18:53:01,337 INFO WebTextInput [main] 1st: 'BilboCucu'
+2019-05-29 18:53:01,337 INFO WebTextInput [main] 2nd: 'BilboCucu'
+2019-05-29 18:53:01,356 INFO Helpers [main] Sleep for 500 ms
+2019-05-29 18:53:02,233 INFO WebCheckBox [main] Select Provide Menu Link
+2019-05-29 18:53:02,466 INFO WebButton [main] Click on element 'Save Btn'
+2019-05-29 18:53:05,332 INFO Menu [main] Check that page title is 'BilboCucu' in '10' seconds
+2019-05-29 18:53:05,346 INFO WebText [main] Verify text of 'Content Txt' element
+2019-05-29 18:53:05,355 INFO WebText [main] 1st: 'Bilbo page is created using Cucumber'
+2019-05-29 18:53:05,356 INFO WebText [main] 2nd: 'Bilbo page is created using Cucumber'
+2019-05-29 18:53:05,366 INFO WebLink [main] Click on element 'Content Lnk'
+2019-05-29 18:53:06,985 INFO Helpers [main] Sleep for 2000 ms
+2019-05-29 18:53:08,996 INFO Bindings [main] menu.pageTitle.getText() = Content
+2019-05-29 18:53:09,005 INFO Content [main] Check Type for 'BilboCucu'
+2019-05-29 18:53:09,024 INFO Helpers [main] Check 2 string if equals:
+1st: 'Basic page'
+2nd: 'Basic page'
+2019-05-29 18:53:09,024 INFO Content [main] Check Status for 'BilboCucu'
+2019-05-29 18:53:09,033 INFO Helpers [main] Check 2 string if equals:
+1st: 'Published'
+2nd: 'Published'
+2019-05-29 18:53:09,033 INFO Bindings [main] Test has ended.
+
+2019-05-29 18:53:09,680 INFO Bindings [main] Bindings test started
+2019-05-29 18:53:11,890 INFO Bindings [main] Navigate to http://dev-shire-test.pantheonsite.io/user/login
+2019-05-29 18:53:13,586 INFO Menu [main] Check that page title is 'Log in' in '10' seconds
+2019-05-29 18:53:13,608 INFO WebTextInput [main] Populate 'Username Input' with value 'sf_tanya'
+2019-05-29 18:53:13,644 INFO WebTextInput [main] Verify text of 'Username Input' element
+2019-05-29 18:53:13,667 INFO WebTextInput [main] 1st: 'sf_tanya'
+2019-05-29 18:53:13,667 INFO WebTextInput [main] 2nd: 'sf_tanya'
+2019-05-29 18:53:13,685 INFO WebTextInput [main] Populate 'Password Input' with value '1991SpaceFlash'
+2019-05-29 18:53:13,719 INFO WebTextInput [main] Verify text of 'Password Input' element
+2019-05-29 18:53:13,740 INFO WebTextInput [main] 1st: '1991SpaceFlash'
+2019-05-29 18:53:13,740 INFO WebTextInput [main] 2nd: '1991SpaceFlash'
+2019-05-29 18:53:13,759 INFO WebButton [main] Click on element 'Login Btn'
+2019-05-29 18:53:16,522 INFO Menu [main] Check that page title is 'sf_tanya' in '10' seconds
+2019-05-29 18:53:16,582 INFO WebLink [main] Click on element 'Content Lnk'
+2019-05-29 18:53:18,538 INFO Menu [main] Check that page title is 'Content' in '20' seconds
+2019-05-29 18:53:18,547 INFO Content [main] Edit content of 'Article1'
+2019-05-29 18:53:21,051 INFO Menu [main] Check that page title is 'Article1' in '10' seconds
+2019-05-29 18:53:21,078 INFO Helpers [main] Sleep for 500 ms
+2019-05-29 18:53:21,746 INFO WebButton [main] Click on element 'Save Btn'
+2019-05-29 18:53:23,884 INFO Content [main] Check if the info message equals to 'Article Article1 has been updated.'
+2019-05-29 18:53:23,898 INFO Content [main] Go to the item with title 'Article1'
+2019-05-29 18:53:27,167 INFO Menu [main] Check that page title is 'Article1' in '10' seconds
+2019-05-29 18:53:27,194 INFO WebText [main] Verify text of 'Content Txt' element
+2019-05-29 18:53:27,204 INFO WebText [main] 1st: 'updated using Cucumber'
+2019-05-29 18:53:27,204 INFO WebText [main] 2nd: 'updated using Cucumber'
+2019-05-29 18:53:27,215 INFO Bindings [main] Test has ended.
+
+2019-05-29 18:53:27,865 INFO Bindings [main] Bindings test started
+2019-05-29 18:53:30,068 INFO Bindings [main] Navigate to http://dev-shire-test.pantheonsite.io/user/login
+2019-05-29 18:53:31,822 INFO Menu [main] Check that page title is 'Log in' in '10' seconds
+2019-05-29 18:53:31,844 INFO WebTextInput [main] Populate 'Username Input' with value 'sf_tanya'
+2019-05-29 18:53:31,879 INFO WebTextInput [main] Verify text of 'Username Input' element
+2019-05-29 18:53:31,903 INFO WebTextInput [main] 1st: 'sf_tanya'
+2019-05-29 18:53:31,904 INFO WebTextInput [main] 2nd: 'sf_tanya'
+2019-05-29 18:53:31,923 INFO WebTextInput [main] Populate 'Password Input' with value '1991SpaceFlash'
+2019-05-29 18:53:31,955 INFO WebTextInput [main] Verify text of 'Password Input' element
+2019-05-29 18:53:31,976 INFO WebTextInput [main] 1st: '1991SpaceFlash'
+2019-05-29 18:53:31,976 INFO WebTextInput [main] 2nd: '1991SpaceFlash'
+2019-05-29 18:53:31,992 INFO WebButton [main] Click on element 'Login Btn'
+2019-05-29 18:53:34,946 INFO Menu [main] Check that page title is 'sf_tanya' in '10' seconds
+2019-05-29 18:53:34,980 INFO WebLink [main] Click on element 'Content Lnk'
+2019-05-29 18:53:36,907 INFO Menu [main] Check that page title is 'Content' in '20' seconds
+2019-05-29 18:53:36,917 INFO Content [main] Edit content of 'Article2'
+2019-05-29 18:53:40,148 INFO Menu [main] Check that page title is 'Article2' in '10' seconds
+2019-05-29 18:53:40,207 INFO Helpers [main] Sleep for 500 ms
+2019-05-29 18:53:40,888 INFO WebButton [main] Click on element 'Save Btn'
+2019-05-29 18:53:43,401 INFO Content [main] Check if the info message equals to 'Article Article2 has been updated.'
+2019-05-29 18:53:43,430 INFO Content [main] Go to the item with title 'Article2'
+2019-05-29 18:53:45,511 INFO Menu [main] Check that page title is 'Article2' in '10' seconds
+2019-05-29 18:53:45,527 INFO WebText [main] Verify text of 'Content Txt' element
+2019-05-29 18:53:45,540 INFO WebText [main] 1st: 'updated using Cucumber'
+2019-05-29 18:53:45,540 INFO WebText [main] 2nd: 'updated using Cucumber'
+2019-05-29 18:53:45,549 INFO Bindings [main] Test has ended.
+
+2019-05-29 18:53:46,341 INFO Bindings [main] Bindings test started
+2019-05-29 18:53:48,526 INFO Bindings [main] Navigate to http://dev-shire-test.pantheonsite.io/user/login
+2019-05-29 18:53:50,212 INFO Menu [main] Check that page title is 'Log in' in '10' seconds
+2019-05-29 18:53:50,236 INFO WebTextInput [main] Populate 'Username Input' with value 'sf_tanya'
+2019-05-29 18:53:50,283 INFO WebTextInput [main] Verify text of 'Username Input' element
+2019-05-29 18:53:50,306 INFO WebTextInput [main] 1st: 'sf_tanya'
+2019-05-29 18:53:50,306 INFO WebTextInput [main] 2nd: 'sf_tanya'
+2019-05-29 18:53:50,324 INFO WebTextInput [main] Populate 'Password Input' with value '1991SpaceFlash'
+2019-05-29 18:53:50,354 INFO WebTextInput [main] Verify text of 'Password Input' element
+2019-05-29 18:53:50,373 INFO WebTextInput [main] 1st: '1991SpaceFlash'
+2019-05-29 18:53:50,373 INFO WebTextInput [main] 2nd: '1991SpaceFlash'
+2019-05-29 18:53:50,393 INFO WebButton [main] Click on element 'Login Btn'
+2019-05-29 18:53:53,102 INFO Menu [main] Check that page title is 'sf_tanya' in '10' seconds
+2019-05-29 18:53:53,171 INFO WebLink [main] Click on element 'Content Lnk'
+2019-05-29 18:53:55,213 INFO Menu [main] Check that page title is 'Content' in '20' seconds
+2019-05-29 18:53:55,223 INFO Content [main] Edit content of 'Article3'
+2019-05-29 18:53:58,139 INFO Menu [main] Check that page title is 'Article3' in '10' seconds
+2019-05-29 18:53:58,163 INFO Helpers [main] Sleep for 500 ms
+2019-05-29 18:53:58,819 INFO WebButton [main] Click on element 'Save Btn'
+2019-05-29 18:54:01,636 INFO Content [main] Check if the info message equals to 'Article Article3 has been updated.'
+2019-05-29 18:54:01,654 INFO Content [main] Go to the item with title 'Article3'
+2019-05-29 18:54:04,112 INFO Menu [main] Check that page title is 'Article3' in '10' seconds
+2019-05-29 18:54:04,136 INFO WebText [main] Verify text of 'Content Txt' element
+2019-05-29 18:54:04,151 INFO WebText [main] 1st: 'updated using Cucumber'
+2019-05-29 18:54:04,151 INFO WebText [main] 2nd: 'updated using Cucumber'
+2019-05-29 18:54:04,166 INFO Bindings [main] Test has ended.
+
+2019-05-29 18:54:04,901 INFO Bindings [main] Bindings test started
+2019-05-29 18:54:07,096 INFO Bindings [main] Navigate to http://dev-shire-test.pantheonsite.io/user/login
+2019-05-29 18:54:08,834 INFO Menu [main] Check that page title is 'Log in' in '10' seconds
+2019-05-29 18:54:08,873 INFO WebTextInput [main] Populate 'Username Input' with value 'sf_tanya'
+2019-05-29 18:54:08,904 INFO WebTextInput [main] Verify text of 'Username Input' element
+2019-05-29 18:54:08,929 INFO WebTextInput [main] 1st: 'sf_tanya'
+2019-05-29 18:54:08,930 INFO WebTextInput [main] 2nd: 'sf_tanya'
+2019-05-29 18:54:08,946 INFO WebTextInput [main] Populate 'Password Input' with value '1991SpaceFlash'
+2019-05-29 18:54:08,971 INFO WebTextInput [main] Verify text of 'Password Input' element
+2019-05-29 18:54:08,990 INFO WebTextInput [main] 1st: '1991SpaceFlash'
+2019-05-29 18:54:08,990 INFO WebTextInput [main] 2nd: '1991SpaceFlash'
+2019-05-29 18:54:09,009 INFO WebButton [main] Click on element 'Login Btn'
+2019-05-29 18:54:12,867 INFO Menu [main] Check that page title is 'sf_tanya' in '10' seconds
+2019-05-29 18:54:12,930 INFO WebLink [main] Click on element 'Content Lnk'
+2019-05-29 18:54:14,796 INFO Menu [main] Check that page title is 'Content' in '20' seconds
+2019-05-29 18:54:14,821 INFO Content [main] Edit content of 'FrodoCucu'
+2019-05-29 18:54:17,777 INFO Menu [main] Check that page title is 'FrodoCucu' in '10' seconds
+2019-05-29 18:54:17,852 INFO Helpers [main] Sleep for 500 ms
+2019-05-29 18:54:18,501 INFO WebButton [main] Click on element 'Save Btn'
+2019-05-29 18:54:20,966 INFO Content [main] Check if the info message equals to 'Basic page FrodoCucu has been updated.'
+2019-05-29 18:54:21,005 INFO Content [main] Go to the item with title 'FrodoCucu'
+2019-05-29 18:54:23,019 INFO Menu [main] Check that page title is 'FrodoCucu' in '10' seconds
+2019-05-29 18:54:23,034 INFO WebText [main] Verify text of 'Content Txt' element
+2019-05-29 18:54:23,058 INFO WebText [main] 1st: 'updated using Cucumber'
+2019-05-29 18:54:23,058 INFO WebText [main] 2nd: 'updated using Cucumber'
+2019-05-29 18:54:23,068 INFO Bindings [main] Test has ended.
+
+2019-05-29 18:54:23,706 INFO Bindings [main] Bindings test started
+2019-05-29 18:54:25,925 INFO Bindings [main] Navigate to http://dev-shire-test.pantheonsite.io/user/login
+2019-05-29 18:54:27,912 INFO Menu [main] Check that page title is 'Log in' in '10' seconds
+2019-05-29 18:54:27,934 INFO WebTextInput [main] Populate 'Username Input' with value 'sf_tanya'
+2019-05-29 18:54:27,967 INFO WebTextInput [main] Verify text of 'Username Input' element
+2019-05-29 18:54:27,989 INFO WebTextInput [main] 1st: 'sf_tanya'
+2019-05-29 18:54:27,989 INFO WebTextInput [main] 2nd: 'sf_tanya'
+2019-05-29 18:54:28,007 INFO WebTextInput [main] Populate 'Password Input' with value '1991SpaceFlash'
+2019-05-29 18:54:28,035 INFO WebTextInput [main] Verify text of 'Password Input' element
+2019-05-29 18:54:28,056 INFO WebTextInput [main] 1st: '1991SpaceFlash'
+2019-05-29 18:54:28,056 INFO WebTextInput [main] 2nd: '1991SpaceFlash'
+2019-05-29 18:54:28,072 INFO WebButton [main] Click on element 'Login Btn'
+2019-05-29 18:54:31,035 INFO Menu [main] Check that page title is 'sf_tanya' in '10' seconds
+2019-05-29 18:54:31,077 INFO WebLink [main] Click on element 'Content Lnk'
+2019-05-29 18:54:32,668 INFO Menu [main] Check that page title is 'Content' in '20' seconds
+2019-05-29 18:54:32,681 INFO Content [main] Edit content of 'SamCucu'
+2019-05-29 18:54:36,022 INFO Menu [main] Check that page title is 'SamCucu' in '10' seconds
+2019-05-29 18:54:36,105 INFO Helpers [main] Sleep for 500 ms
+2019-05-29 18:54:36,758 INFO WebButton [main] Click on element 'Save Btn'
+2019-05-29 18:54:38,966 INFO Content [main] Check if the info message equals to 'Basic page SamCucu has been updated.'
+2019-05-29 18:54:39,014 INFO Content [main] Go to the item with title 'SamCucu'
+2019-05-29 18:54:41,168 INFO Menu [main] Check that page title is 'SamCucu' in '10' seconds
+2019-05-29 18:54:41,187 INFO WebText [main] Verify text of 'Content Txt' element
+2019-05-29 18:54:41,198 INFO WebText [main] 1st: 'updated using Cucumber'
+2019-05-29 18:54:41,198 INFO WebText [main] 2nd: 'updated using Cucumber'
+2019-05-29 18:54:41,210 INFO Bindings [main] Test has ended.
+
+2019-05-29 18:54:41,868 INFO Bindings [main] Bindings test started
+2019-05-29 18:54:44,059 INFO Bindings [main] Navigate to http://dev-shire-test.pantheonsite.io/user/login
+2019-05-29 18:54:46,037 INFO Menu [main] Check that page title is 'Log in' in '10' seconds
+2019-05-29 18:54:46,056 INFO WebTextInput [main] Populate 'Username Input' with value 'sf_tanya'
+2019-05-29 18:54:46,093 INFO WebTextInput [main] Verify text of 'Username Input' element
+2019-05-29 18:54:46,121 INFO WebTextInput [main] 1st: 'sf_tanya'
+2019-05-29 18:54:46,121 INFO WebTextInput [main] 2nd: 'sf_tanya'
+2019-05-29 18:54:46,137 INFO WebTextInput [main] Populate 'Password Input' with value '1991SpaceFlash'
+2019-05-29 18:54:46,185 INFO WebTextInput [main] Verify text of 'Password Input' element
+2019-05-29 18:54:46,208 INFO WebTextInput [main] 1st: '1991SpaceFlash'
+2019-05-29 18:54:46,208 INFO WebTextInput [main] 2nd: '1991SpaceFlash'
+2019-05-29 18:54:46,228 INFO WebButton [main] Click on element 'Login Btn'
+2019-05-29 18:54:48,441 INFO Menu [main] Check that page title is 'sf_tanya' in '10' seconds
+2019-05-29 18:54:48,480 INFO WebLink [main] Click on element 'Content Lnk'
+2019-05-29 18:54:50,371 INFO Menu [main] Check that page title is 'Content' in '20' seconds
+2019-05-29 18:54:50,385 INFO Content [main] Edit content of 'BilboCucu'
+2019-05-29 18:54:54,194 INFO Menu [main] Check that page title is 'BilboCucu' in '10' seconds
+2019-05-29 18:54:54,212 INFO Helpers [main] Sleep for 500 ms
+2019-05-29 18:54:54,797 INFO WebButton [main] Click on element 'Save Btn'
+2019-05-29 18:54:57,044 INFO Content [main] Check if the info message equals to 'Basic page BilboCucu has been updated.'
+2019-05-29 18:54:57,069 INFO Content [main] Go to the item with title 'BilboCucu'
+2019-05-29 18:54:58,829 INFO Menu [main] Check that page title is 'BilboCucu' in '10' seconds
+2019-05-29 18:54:58,843 INFO WebText [main] Verify text of 'Content Txt' element
+2019-05-29 18:54:58,852 INFO WebText [main] 1st: 'updated using Cucumber'
+2019-05-29 18:54:58,853 INFO WebText [main] 2nd: 'updated using Cucumber'
+2019-05-29 18:54:58,864 INFO Bindings [main] Test has ended.
+

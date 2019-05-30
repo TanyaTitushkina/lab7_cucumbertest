@@ -1,0 +1,84 @@
+2019-05-29 18:48:16,228 INFO Bindings [main] Bindings test started
+2019-05-29 18:48:18,895 INFO Bindings [main] Navigate to http://dev-shire-test.pantheonsite.io/user/login
+2019-05-29 18:48:20,660 INFO Menu [main] Check that page title is 'Log in' in '10' seconds
+2019-05-29 18:48:20,692 INFO WebTextInput [main] Populate 'Username Input' with value 'sf_tanya'
+2019-05-29 18:48:20,754 INFO WebTextInput [main] Verify text of 'Username Input' element
+2019-05-29 18:48:20,801 INFO WebTextInput [main] 1st: 'sf_tanya'
+2019-05-29 18:48:20,801 INFO WebTextInput [main] 2nd: 'sf_tanya'
+2019-05-29 18:48:20,848 INFO WebTextInput [main] Populate 'Password Input' with value '1991SpaceFlash'
+2019-05-29 18:48:20,911 INFO WebTextInput [main] Verify text of 'Password Input' element
+2019-05-29 18:48:20,957 INFO WebTextInput [main] 1st: '1991SpaceFlash'
+2019-05-29 18:48:20,957 INFO WebTextInput [main] 2nd: '1991SpaceFlash'
+2019-05-29 18:48:21,020 INFO WebButton [main] Click on element 'Login Btn'
+2019-05-29 18:48:23,960 INFO Menu [main] Check that page title is 'sf_tanya' in '10' seconds
+2019-05-29 18:48:23,975 INFO WebLink [main] Click on element 'Home Lnk'
+2019-05-29 18:48:27,848 INFO WebTextInput [main] Populate 'Subject Input' with value 'test Cucu 1'
+2019-05-29 18:48:28,970 INFO WebTextInput [main] Verify text of 'Subject Input' element
+2019-05-29 18:48:28,999 INFO WebTextInput [main] 1st: 'test Cucu 1'
+2019-05-29 18:48:28,999 INFO WebTextInput [main] 2nd: 'test Cucu 1'
+2019-05-29 18:48:29,024 INFO Helpers [main] Sleep for 1000 ms
+2019-05-29 18:48:30,083 INFO WebButton [main] Click on element 'Save Btn'
+2019-05-29 18:48:33,455 INFO Helpers [main] Check 2 string if equals:
+1st: 'test Cucu 1'
+2nd: 'test Cucu 1'
+2019-05-29 18:48:33,466 INFO Helpers [main] Check 2 string if equals:
+1st: 'hello from Cucu 1'
+2nd: 'hello from Cucu 1'
+2019-05-29 18:48:33,466 INFO Bindings [main] Test has ended.
+
+2019-05-29 18:48:34,255 INFO Bindings [main] Bindings test started
+2019-05-29 18:48:36,453 INFO Bindings [main] Navigate to http://dev-shire-test.pantheonsite.io/user/login
+2019-05-29 18:48:38,055 INFO Menu [main] Check that page title is 'Log in' in '10' seconds
+2019-05-29 18:48:38,086 INFO WebTextInput [main] Populate 'Username Input' with value 'sf_tanya'
+2019-05-29 18:48:38,165 INFO WebTextInput [main] Verify text of 'Username Input' element
+2019-05-29 18:48:38,211 INFO WebTextInput [main] 1st: 'sf_tanya'
+2019-05-29 18:48:38,211 INFO WebTextInput [main] 2nd: 'sf_tanya'
+2019-05-29 18:48:38,254 INFO WebTextInput [main] Populate 'Password Input' with value '1991SpaceFlash'
+2019-05-29 18:48:38,286 INFO WebTextInput [main] Verify text of 'Password Input' element
+2019-05-29 18:48:38,308 INFO WebTextInput [main] 1st: '1991SpaceFlash'
+2019-05-29 18:48:38,309 INFO WebTextInput [main] 2nd: '1991SpaceFlash'
+2019-05-29 18:48:38,328 INFO WebButton [main] Click on element 'Login Btn'
+2019-05-29 18:48:40,939 INFO Menu [main] Check that page title is 'sf_tanya' in '10' seconds
+2019-05-29 18:48:40,954 INFO WebLink [main] Click on element 'Home Lnk'
+2019-05-29 18:48:45,193 INFO WebTextInput [main] Populate 'Subject Input' with value 'test Cucu 2'
+2019-05-29 18:48:46,624 INFO WebTextInput [main] Verify text of 'Subject Input' element
+2019-05-29 18:48:46,656 INFO WebTextInput [main] 1st: 'test Cucu 2'
+2019-05-29 18:48:46,656 INFO WebTextInput [main] 2nd: 'test Cucu 2'
+2019-05-29 18:48:46,680 INFO Helpers [main] Sleep for 1000 ms
+2019-05-29 18:48:47,734 INFO WebButton [main] Click on element 'Save Btn'
+2019-05-29 18:48:51,855 INFO Helpers [main] Check 2 string if equals:
+1st: 'test Cucu 2'
+2nd: 'test Cucu 2'
+2019-05-29 18:48:51,868 INFO Helpers [main] Check 2 string if equals:
+1st: 'hello from Cucu 2'
+2nd: 'hello from Cucu 2'
+2019-05-29 18:48:51,868 INFO Bindings [main] Test has ended.
+
+2019-05-29 18:48:52,518 INFO Bindings [main] Bindings test started
+2019-05-29 18:48:54,723 INFO Bindings [main] Navigate to http://dev-shire-test.pantheonsite.io/user/login
+2019-05-29 18:48:56,350 INFO Menu [main] Check that page title is 'Log in' in '10' seconds
+2019-05-29 18:48:56,369 INFO WebTextInput [main] Populate 'Username Input' with value 'sf_tanya'
+2019-05-29 18:48:56,402 INFO WebTextInput [main] Verify text of 'Username Input' element
+2019-05-29 18:48:56,429 INFO WebTextInput [main] 1st: 'sf_tanya'
+2019-05-29 18:48:56,429 INFO WebTextInput [main] 2nd: 'sf_tanya'
+2019-05-29 18:48:56,449 INFO WebTextInput [main] Populate 'Password Input' with value '1991SpaceFlash'
+2019-05-29 18:48:56,483 INFO WebTextInput [main] Verify text of 'Password Input' element
+2019-05-29 18:48:56,505 INFO WebTextInput [main] 1st: '1991SpaceFlash'
+2019-05-29 18:48:56,505 INFO WebTextInput [main] 2nd: '1991SpaceFlash'
+2019-05-29 18:48:56,526 INFO WebButton [main] Click on element 'Login Btn'
+2019-05-29 18:48:59,615 INFO Menu [main] Check that page title is 'sf_tanya' in '10' seconds
+2019-05-29 18:48:59,627 INFO WebLink [main] Click on element 'Home Lnk'
+2019-05-29 18:49:03,712 INFO WebTextInput [main] Populate 'Subject Input' with value 'test Cucu 3'
+2019-05-29 18:49:05,191 INFO WebTextInput [main] Verify text of 'Subject Input' element
+2019-05-29 18:49:05,221 INFO WebTextInput [main] 1st: 'test Cucu 3'
+2019-05-29 18:49:05,221 INFO WebTextInput [main] 2nd: 'test Cucu 3'
+2019-05-29 18:49:05,247 INFO Helpers [main] Sleep for 1000 ms
+2019-05-29 18:49:06,299 INFO WebButton [main] Click on element 'Save Btn'
+2019-05-29 18:49:10,154 INFO Helpers [main] Check 2 string if equals:
+1st: 'test Cucu 3'
+2nd: 'test Cucu 3'
+2019-05-29 18:49:10,165 INFO Helpers [main] Check 2 string if equals:
+1st: 'hello from Cucu 3'
+2nd: 'hello from Cucu 3'
+2019-05-29 18:49:10,165 INFO Bindings [main] Test has ended.
+
